@@ -1,0 +1,13 @@
+lift_proto.db.trace.db
+target
+.project
+.classpath
+.tmp
+
+lift_proto.db.h2.db
+lift_proto.db.lock.db
+/bin
+project/target
+project/project
+
+/.settings/
